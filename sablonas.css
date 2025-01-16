@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(226, 106, 106);
+    border: 2px solid rgb(255, 230, 0);
+    border-radius: 16px;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    min-width: 256px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+html {
+    background: radial-
+    gradient(circle, SkyOrange,
+        SkyOrange 50%, rgb(255, 145, 0) 50%,
+        SkyOrange 
+    );
+    background-size: 8px 8px ;
+}  
